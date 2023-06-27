@@ -1,2 +1,2 @@
 # FirstMLOpsYein
-cour des MLOps
+COURSES OF MLOps
